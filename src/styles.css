@@ -10,7 +10,7 @@ body {
   color: #444444;
 }
 
-@media screen and (true) {
+@media screen and (min-width:768px) {
   body{
     background-color: lightblue;
 }
